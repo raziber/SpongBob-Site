@@ -1,0 +1,10 @@
+@font-face {
+    font-family: krabbyPatty;
+    src: url(krabbypatty.ttf);
+}
+
+body {
+    text-align: center;
+    font-family: krabbyPatty;
+    font-size: 20px;
+}
